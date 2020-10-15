@@ -181,3 +181,24 @@ app {
         display: block;
     }
 }
+
+/*
+    FAQ Page
+*/
+.questions{
+
+}
+
+.question{
+    border: 1px solid black;
+    padding: .5em;
+    border-radius: 1em;
+}
+
+.answer{
+    margin: .75em .5em 2em .5em;
+}
+
+caption.schedule{
+    caption-side:top;
+}
