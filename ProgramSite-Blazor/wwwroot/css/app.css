@@ -198,3 +198,7 @@ app {
 .answer{
     margin: .75em .5em 2em .5em;
 }
+
+caption.schedule{
+    caption-side:top;
+}
