@@ -195,6 +195,10 @@ app {
     border-radius: 1em;
 }
 
+div.question > span{
+    padding-right: 1em;
+}
+
 .answer{
     margin: .75em .5em 2em .5em;
 }
