@@ -1,6 +1,6 @@
 {
-  "name": "BlazorProgramSite",
-  "short_name": "BlazorProgramSite",
+  "name": "CPW Program Information",
+  "short_name": "CPW Information",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
